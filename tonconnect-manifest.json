@@ -1,7 +1,5 @@
 {
-  "manifest": {
-    "url": "https://mantasn.github.io/hosting",
-    "name": "My App",
-    "iconUrl": "https://mantasn.github.io/hosting/icon.png"
-  }
+  "url": "https://mantasn.github.io/hosting",
+  "name": "My App",
+  "iconUrl": "https://mantasn.github.io/hosting/icon.png"
 }
